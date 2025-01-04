@@ -23,6 +23,6 @@ start /priority geometrydash.exe
 /priority it can be one of these:
 
 /high
-/aboveaormal
+/abovenormal
 /normal
 /belownormal
