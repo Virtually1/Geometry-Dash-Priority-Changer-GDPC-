@@ -1,0 +1,9 @@
+MOVE THE BATCH FILE TO THE GD FOLDER AND MAKE A SHORTCUT WITH IT
+start /priority geometrydash.exe
+
+/priority it can be one of these:
+
+/high
+/aboveaormal
+/normal
+/belownormal

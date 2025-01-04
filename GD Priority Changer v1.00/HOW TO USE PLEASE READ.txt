@@ -1,0 +1,28 @@
+Edit your batch file with your path to GD and /priority,also choose the Disk you have GD on, by adding your disk letter.
+
+Like for example i have E: but you can have your letter of the disk ex D:
+
+LETTER DISK:			//my letter disk was E
+cd LETTER DISK:\SteamLibrary\steamapps\common\Geometry Dash
+start /priority geometrydash.exe
+
+EXAMPLE
+
+E:			
+cd E:\SteamLibrary\steamapps\common\Geometry Dash
+start /priority geometrydash.exe
+
+IF YOU HAVE CRACKED VERSION THEN JUST EDIT THE PATH TO GD 
+
+EXAMPLE 2 for cracked version
+
+LETTER DISK:			
+cd path
+start /priority geometrydash.exe
+
+/priority it can be one of these:
+
+/high
+/aboveaormal
+/normal
+/belownormal
